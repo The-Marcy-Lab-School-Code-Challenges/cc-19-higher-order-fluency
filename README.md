@@ -75,7 +75,7 @@ const alumni = [
 
 **Test all your solutions for questions 6-10 with the following variable:** 
 
-` const animals =['cheetah','dog', 'cat', 'dodobird', 'bear', 'dolphin']
+` const animals =['cheetah','dog', 'cat', 'dodobird', 'bear', 'dolphin'] `
     
 6. Write a function named `noVowel` that takes an array of strings and returns an array of strings where all of the vowels have been turned into an x. 
     
