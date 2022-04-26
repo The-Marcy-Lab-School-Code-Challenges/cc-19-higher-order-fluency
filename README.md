@@ -29,7 +29,7 @@ const alumni = [
     ```jsx
     averageAge(alumni) // 21
     ```
-2. Write a function named /`bananaBread` that takes an array of objects and returns an array of the same objects with a new property named bananaBread that has a value of a string using the name and job properties of each object. 
+2. Write a function named `bananaBread` that takes an array of objects and returns an array of the same objects with a new property named bananaBread that has a value of a string using the name and job properties of each object. 
     
     ```jsx
     bananaBread(alumni) // returns [
